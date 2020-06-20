@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="incometype">
+        <item>---请选择---</item>
+        <item>学习-奖金</item>
+        <item>比赛-奖金</item>
+        <item>业余-兼职</item>
+        <item>其它</item>
+    </array>
+    <array name="paytype">
+        <item>---请选择---</item>
+        <item>电影-娱乐</item>
+        <item>美食-餐饮</item>
+        <item>手机-充值</item>
+        <item>其它</item>
+    </array>
+</resources>
